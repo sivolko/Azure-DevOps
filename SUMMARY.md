@@ -6,7 +6,7 @@
 
 * [✨ Syllabus ](overview/syllabus.md)
 
-## Fundamentals
+## 🐣 Fundamentals
 
 * [🛠 Linux 101](fundamentals/linux-101/README.md)
   * [📝 Getting Setup](fundamentals/linux-101/getting-setup.md)
@@ -17,8 +17,8 @@
 
 ***
 
-* [Modules](modules/README.md)
-  * [Module 1](modules/module-1.md)
+* [📘 Modules](modules/README.md)
+  * [1 Module 1](modules/module-1.md)
   * [Module 2](modules/module-2.md)
   * [Module 3](modules/module-3.md)
   * [Module 4](modules/module-4.md)
@@ -31,3 +31,10 @@
   * [Module 11](modules/module-11.md)
   * [Module 12](modules/module-12.md)
   * [Module 13](modules/module-13.md)
+* [🛠 Tools](tools/README.md)
+  * [🔭 Observability](tools/observability.md)
+  * [👩🏫 Provisioning](tools/provisioning.md)
+  * [🔄 CI/CD](tools/ci-cd.md)
+  * [🎻 Orchestration](tools/orchestration.md)
+* [📋 Cheat Sheets](cheat-sheets.md)
+* [🤝 Reference](reference.md)
