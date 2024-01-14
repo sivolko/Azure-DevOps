@@ -12,11 +12,11 @@ layout:
     visible: true
 ---
 
-# ✨ Syllabus&#x20;
+# ✨ Syllabus
 
 <details>
 
-<summary>Module 1</summary>
+<summary><a href="syllabus.md#module-1">Module 1</a></summary>
 
 
 
@@ -24,7 +24,7 @@ layout:
 
 <details>
 
-<summary>Module 2</summary>
+<summary><a href="syllabus.md#module-2">Module 2</a></summary>
 
 
 
@@ -32,7 +32,7 @@ layout:
 
 <details>
 
-<summary>Module 3</summary>
+<summary><a href="syllabus.md#module-3">Module 3</a></summary>
 
 
 
@@ -40,7 +40,7 @@ layout:
 
 <details>
 
-<summary>Module 4</summary>
+<summary><a href="syllabus.md#module-4">Module 4</a></summary>
 
 
 
@@ -48,7 +48,7 @@ layout:
 
 <details>
 
-<summary>Module 5</summary>
+<summary><a href="syllabus.md#module-5">Module 5</a></summary>
 
 
 
@@ -56,7 +56,7 @@ layout:
 
 <details>
 
-<summary>Module 6</summary>
+<summary><a href="syllabus.md#module-6">Module 6</a></summary>
 
 
 
@@ -64,7 +64,7 @@ layout:
 
 <details>
 
-<summary>Module 7</summary>
+<summary><a href="syllabus.md#module-7">Module 7</a></summary>
 
 
 
@@ -72,7 +72,7 @@ layout:
 
 <details>
 
-<summary>Module 8</summary>
+<summary><a href="syllabus.md#module-8">Module 8</a></summary>
 
 
 
@@ -80,7 +80,7 @@ layout:
 
 <details>
 
-<summary>Module 9</summary>
+<summary><a href="syllabus.md#module-9">Module 9</a></summary>
 
 
 
@@ -88,7 +88,7 @@ layout:
 
 <details>
 
-<summary>Module  10</summary>
+<summary><a href="syllabus.md#module-10">Module  10</a></summary>
 
 
 
@@ -96,7 +96,7 @@ layout:
 
 <details>
 
-<summary>Module 11</summary>
+<summary><a href="syllabus.md#module-11">Module 11</a></summary>
 
 
 
@@ -104,7 +104,7 @@ layout:
 
 <details>
 
-<summary>Module 12</summary>
+<summary><a href="syllabus.md#module-12">Module 12</a></summary>
 
 
 
@@ -112,7 +112,7 @@ layout:
 
 <details>
 
-<summary>Module 13</summary>
+<summary><a href="syllabus.md#module-13">Module 13</a></summary>
 
 
 
