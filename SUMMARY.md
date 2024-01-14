@@ -8,8 +8,9 @@
 
 ## 🐣 Fundamentals
 
-* [🛠 Linux 101](fundamentals/linux-101/README.md)
-  * [📝 Getting Setup](fundamentals/linux-101/getting-setup.md)
+* [🐧 Linux 101](fundamentals/linux-101/README.md)
+  * [⚠ Shell](fundamentals/linux-101/shell.md)
+  * [🛣 Navigation](fundamentals/linux-101/navigation.md)
 * [Version Control](fundamentals/version-control/README.md)
   * [GIT & GITHUB](fundamentals/version-control/git-and-github.md)
   * [Commands](fundamentals/version-control/commands.md)
@@ -18,7 +19,7 @@
 ***
 
 * [📘 Modules](modules/README.md)
-  * [1 1 Module 1](modules/module-1.md)
+  * [1 Module 1](modules/module-1.md)
   * [2 Module 2](modules/module-2.md)
   * [3 Module 3](modules/module-3.md)
   * [4 Module 4](modules/module-4.md)
