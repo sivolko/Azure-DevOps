@@ -1,5 +1,16 @@
 ---
 description: This module is created with reference of HTB Linux Sandbox
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🐧 Linux 101
