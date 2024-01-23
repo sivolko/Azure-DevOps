@@ -1,5 +1,7 @@
 ---
-description: This is self place learning
+description: >-
+  This is self-placed learning by Shubhendu with reference of all public and
+  open source authorised learning materials.
 layout:
   title:
     visible: true
