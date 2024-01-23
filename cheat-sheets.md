@@ -90,3 +90,11 @@ layout:
 | `wc`                     | Prints newline, word, and byte counts for a given input.                                                                                                   |
 | `chmod`                  | Changes permission of a file or directory.                                                                                                                 |
 | `chown`                  | Changes the owner and group of a file or directory.                                                                                                        |
+
+### Git Cheat Sheet
+
+{% embed url="https://training.github.com/downloads/github-git-cheat-sheet/" %}
+
+{% embed url="https://training.github.com/downloads/github-git-cheat-sheet.pdf" %}
+source: GitHub Docs
+{% endembed %}

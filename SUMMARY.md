@@ -13,8 +13,7 @@
   * [🛣 Navigation](fundamentals/linux-101/navigation.md)
 * [Version Control](fundamentals/version-control/README.md)
   * [🌟 GIT & GITHUB](fundamentals/version-control/git-and-github.md)
-  * [Commands](fundamentals/version-control/commands.md)
-  * [Hands-on-Labs](fundamentals/version-control/hands-on-labs.md)
+  * [💻 Hands-on-Labs](fundamentals/version-control/hands-on-labs.md)
 
 ***
 
