@@ -31,13 +31,13 @@ git -v
 ```
 {% endcode %}
 
-{% code title="Set you r" %}
+{% code title="Set your user name " %}
 ```bash
 git config --global user.name "<USER_NAME>"
 ```
 {% endcode %}
 
-{% code title="" %}
+{% code title="set your email " %}
 ```bash
 git config --global user.email "<USER_EMAIL>"
 ```
@@ -70,3 +70,37 @@ git commit
 [https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/)
 
 </details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>New Repository</strong></mark></summary>
+
+{% code lineNumbers="true" %}
+```bash
+git init 
+git branch -M main 
+git remote add origin "<your url of repository>"
+git add .
+git commit -m "commit message here"
+git push -u origin main 
+```
+{% endcode %}
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Existing Repository</strong></mark> </summary>
+
+{% code lineNumbers="true" %}
+```bash
+git remote add origin <your repository url>
+git branch -M main 
+git push -u origin main 
+// to rebase run below command 
+git pull --rebase origin main 
+```
+{% endcode %}
+
+</details>
+
